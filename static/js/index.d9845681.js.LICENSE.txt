@@ -1,0 +1,11 @@
+/*! ./bootstrap */
+
+/*! react-dom */
+
+/*! react */
+
+/*! /home/runner/work/module-federation-test/module-federation-test/node_modules/react-dom/index.js */
+
+/*! react */
+
+/*! /home/runner/work/module-federation-test/module-federation-test/node_modules/react/index.js */

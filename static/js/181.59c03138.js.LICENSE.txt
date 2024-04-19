@@ -1,0 +1,11 @@
+/*! /home/runner/work/module-federation-test/module-federation-test/node_modules/@module-federation/webpack-bundler-runtime/dist/index.cjs.js */
+
+/*! @module-federation/sdk */
+
+/*! @module-federation/runtime */
+
+/*! ./constant.cjs.js */
+
+/*! @module-federation/sdk */
+
+/*! ./share.cjs.js */

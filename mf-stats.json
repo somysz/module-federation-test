@@ -1,0 +1,103 @@
+{
+  "id": "common",
+  "name": "common",
+  "metaData": {
+    "name": "common",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "local",
+      "buildName": "common"
+    },
+    "remoteEntry": {
+      "name": "static/js/common.dc1dcefa.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "@mf-types.zip",
+      "api": "@mf-types.d.ts"
+    },
+    "globalName": "common",
+    "pluginVersion": "0.1.7",
+    "publicPath": "/"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "^18.2.0",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.2.0",
+      "eager": false,
+      "id": "common:react",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "static/js/async/512.983a6b19.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./button"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.2.0",
+      "shareScope": "default",
+      "name": "react-dom",
+      "version": "18.2.0",
+      "eager": false,
+      "id": "common:react-dom",
+      "assets": {
+        "js": {
+          "async": [
+            "static/js/async/512.983a6b19.js"
+          ],
+          "sync": [
+            "static/js/async/259.42d09fd5.js",
+            "static/js/async/987.687f322e.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./button",
+      "id": "common:button",
+      "name": "button",
+      "requires": [
+        "react"
+      ],
+      "file": "src/button.tsx",
+      "assets": {
+        "js": {
+          "sync": [
+            "static/js/async/__federation_expose_button.248c91e3.js"
+          ],
+          "async": [
+            "static/js/async/512.983a6b19.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

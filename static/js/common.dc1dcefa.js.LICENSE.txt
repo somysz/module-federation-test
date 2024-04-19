@@ -1,0 +1,21 @@
+/*! ./src/button.tsx */
+
+/*! /home/runner/work/module-federation-test/module-federation-test/node_modules/@module-federation/webpack-bundler-runtime/dist/index.cjs.js */
+
+/*! @module-federation/sdk */
+
+/*! @module-federation/runtime */
+
+/*! ./constant.cjs.js */
+
+/*! react */
+
+/*! /home/runner/work/module-federation-test/module-federation-test/node_modules/react-dom/index.js */
+
+/*! react */
+
+/*! @module-federation/sdk */
+
+/*! ./share.cjs.js */
+
+/*! /home/runner/work/module-federation-test/module-federation-test/node_modules/react/index.js */
