@@ -11,7 +11,7 @@ export default function Button() {
             Enter number 2 <input onInput={e => setNumber2(parseInt((e.target as any).value))}/>
         </div>
         <div>
-            Result: {number1 + number2 + 100}
+            Result: {number1 + number2 + 101}
         </div>
     </div>;
 }
