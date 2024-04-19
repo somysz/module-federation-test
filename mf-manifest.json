@@ -9,7 +9,7 @@
       "buildName": "common"
     },
     "remoteEntry": {
-      "name": "static/js/common.3d20ed36.js",
+      "name": "static/js/common.e26e3f6b.js",
       "path": "",
       "type": "global"
     },
@@ -74,7 +74,7 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/async/__federation_expose_button.019d4c7a.js"
+            "static/js/async/__federation_expose_button.3b4cf436.js"
           ],
           "async": [
             "static/js/async/512.983a6b19.js"
