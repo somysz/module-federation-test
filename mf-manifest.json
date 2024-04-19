@@ -9,7 +9,7 @@
       "buildName": "common"
     },
     "remoteEntry": {
-      "name": "static/js/common.dc1dcefa.js",
+      "name": "static/js/common.f70f59ad.js",
       "path": "",
       "type": "global"
     },
@@ -21,7 +21,7 @@
     },
     "globalName": "common",
     "pluginVersion": "0.1.7",
-    "publicPath": "/"
+    "publicPath": "https://somysz.github.io/module-federation-test/"
   },
   "shared": [
     {
